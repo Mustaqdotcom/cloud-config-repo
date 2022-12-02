@@ -1,7 +1,7 @@
 my:
   greeting: Hello World
   list:
-    values: Mrunal is my Best Friend
+    values: This is application.yml from github repo
     
 db: 
   connection: connection-string-here-from-config-server
