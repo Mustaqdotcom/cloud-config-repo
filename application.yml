@@ -1,7 +1,7 @@
 my:
   greeting: Hello World
   list:
-    values: one, Two, Three, Foure
+    values: Mrunal is my Best Friend
     
 db: 
   connection: connection-string-here-from-config-server
