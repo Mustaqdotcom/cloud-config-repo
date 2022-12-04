@@ -1,7 +1,4 @@
-my:
-  greeting: Hello World from github server
-  list:
-    values: This is application.yml from github repo
+my.greeting: Hello World from github server
     
 db: 
   connection: connection-string-here-from-config-server
