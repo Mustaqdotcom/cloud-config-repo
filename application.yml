@@ -1,5 +1,5 @@
 my:
-  greeting: Hello World
+  greeting: Hello World from github server
   list:
     values: This is application.yml from github repo
     
